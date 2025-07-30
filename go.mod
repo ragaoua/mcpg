@@ -1,4 +1,4 @@
-module githum.com/ragaoua/mcpg
+module github.com/ragaoua/mcpg
 
 go 1.24.5
 
