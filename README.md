@@ -2,6 +2,7 @@ An collection of MCP servers providing tools for interacting with a PostgreSQL d
 
 Every server provides tools for a given "realm" :
 
+- General : get information about the postgresql version, data directory/logs/wal/binary location...
 - Data : tools in this realm provide an interface to access user data,
     but also metadata (cluster/database/schema information, roles...)
 - System : interact with the underlying filesystems, get information about the memory and CPU usage...

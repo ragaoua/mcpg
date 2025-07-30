@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	server "githum.com/ragaoua/mcpg/internal/data"
+	server "github.com/ragaoua/mcpg/internal"
 )
 
 func main() {
